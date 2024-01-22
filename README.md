@@ -8,6 +8,8 @@
 
 <p align="center">📫 Here is my Email <em>me@araden.top</em></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/GodAraden/GodAraden/main/logo.svg" width="36"/></p>
+
 <h3 align="center">My Languages and Tools:</h3>
 
 <p align="center"> 
